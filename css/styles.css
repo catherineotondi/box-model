@@ -1,0 +1,12 @@
+.test-box{
+    
+    background-color: bisque;
+    width: 50%;
+    float: left;
+    padding: 8px;
+    margin: 20px;
+    border: 2px solid blue;
+}
+body{
+    background-color: aqua;
+}
